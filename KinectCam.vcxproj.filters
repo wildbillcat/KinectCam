@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Dll.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="KinectCam.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Vcam.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="KinectCam.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{e0f205dd-2f81-4c4d-aacd-5e9d6df30581}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{cc4c1f25-7092-42f6-b55e-7048453bcf48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vcam.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="KinectCam.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

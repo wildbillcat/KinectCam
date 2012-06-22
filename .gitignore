@@ -1,0 +1,10 @@
+bin/*
+obj/*
+ipch/*
+debug/*
+release/*
+*.sou
+*.user
+*.ncb
+*.sbr
+*.log
