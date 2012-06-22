@@ -1,18 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KinectCam", "KinectCam.vcxproj", "{A5ED309D-F36E-63BC-9EBD-99E1422BBEA5}"
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KinectCam", "KinectCam.vcxproj", "{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A5ED309D-F36E-63BC-9EBD-99E1422BBEA5}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A5ED309D-F36E-63BC-9EBD-99E1422BBEA5}.Debug|Win32.Build.0 = Debug|Win32
-		{A5ED309D-F36E-63BC-9EBD-99E1422BBEA5}.Release|Win32.ActiveCfg = Release|Win32
-		{A5ED309D-F36E-63BC-9EBD-99E1422BBEA5}.Release|Win32.Build.0 = Release|Win32
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Debug|Win32.Build.0 = Debug|Win32
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Debug|x64.ActiveCfg = Debug|x64
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Debug|x64.Build.0 = Debug|x64
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Release|Win32.ActiveCfg = Release|Win32
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Release|Win32.Build.0 = Release|Win32
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Release|x64.ActiveCfg = Release|x64
+		{7A4CCDF3-95C4-28F1-660D-B0C2CEDEC2C2}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

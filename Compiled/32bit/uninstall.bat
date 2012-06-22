@@ -1,0 +1,1 @@
+regsvr32 KinectCam.ax /u
